@@ -16,4 +16,5 @@ Step 1. Add the JitPack repository to your build file
   
   dependencies {
 	        implementation 'com.github.arseline:CodalineAds-sdk:1.0.1'
+		
 	}
